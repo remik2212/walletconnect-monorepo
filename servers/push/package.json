@@ -33,7 +33,7 @@
     "axios": "^0.21.1",
     "bluebird": "^3.5.5",
     "enc-utils": "^3.0.0",
-    "fastify": "^3.4.1",
+    "fastify": "^3.29.4",
     "fastify-helmet": "^5.0.3",
     "pino": "^6.7.0",
     "pino-pretty": "^4.3.0",
